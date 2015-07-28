@@ -1,0 +1,11 @@
+ros-indigo-barrett-hand-description (0.1.0-0trusty) trusty; urgency=high
+
+  * Url fix
+  * Fixing catkin error
+  * Adding metapackage and setting CMakeLists and package.xml for release
+  * Add Barrett Hand description package
+  * Contributors: Elena Gambaro, RomanRobotnik
+
+ -- Elena Gambaro <egambaro@robotnik.es>  Mon, 27 Jul 2015 22:00:00 -0000
+
+
