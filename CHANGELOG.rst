@@ -2,6 +2,9 @@
 Changelog for package barrett_hand_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2016-08-10)
+------------------
+
 0.1.1 (2016-08-09)
 ------------------
 * Adding Changelog files
